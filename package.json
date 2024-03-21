@@ -1,0 +1,27 @@
+{
+  "name": "data-harvest-navigator",
+  "version": "1.0.0",
+  "description": "Navigate the data landscape with Harvest Navigator, a versatile tool for harvesting and processing blockchain data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cockiemnstr/data-harvest-navigator"
+  },
+  "author": "cockiemnstr",
+  "license": "MIT",
+  "dependencies": {
+    "data-harvest-navigator": "1.0.0",
+    "harvest-navi-prov": "1.0.0",
+    "pg": "1.0.0",
+    "react-dom": "1.0.0",
+    "web3-utils": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "babel-core": "1.0.0",
+    "react-redux": "1.0.0",
+    "axios": "1.0.0",
+    "mysql": "1.0.0"
+  }
+}
